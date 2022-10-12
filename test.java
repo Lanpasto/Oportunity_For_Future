@@ -30,6 +30,10 @@ public class test extends JFrame {
                 textField1.setText("");
                 textField2.setText("");
                 lblWelcome.setText("");
+<<<<<<<<< Temporary merge branch 1
+=========
+                System.out.print("welcome");
+>>>>>>>>> Temporary merge branch 2
             }
         });
     }
