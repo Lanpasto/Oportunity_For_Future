@@ -30,6 +30,7 @@ public class test extends JFrame {
                 textField1.setText("");
                 textField2.setText("");
                 lblWelcome.setText("");
+                System.out.print("welcome");
             }
         });
     }
